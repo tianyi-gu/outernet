@@ -16,7 +16,7 @@ const Profile = () => {
   return (
     <div>
       <h2 className="mb-5 text-center">
-        React Photo Capture using Webcam Examle
+        Capture your photo!
       </h2>
       <div>
         {picture == '' ? (
